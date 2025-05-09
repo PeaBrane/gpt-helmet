@@ -1,4 +1,4 @@
-# GPT-Helmet
+# LLMs can tell if you're wearing a helmet
 
 A simple API demo using Together AI's DeepSeek-V3 model to classify helmet status from emergency department narratives. This proof-of-concept implementation, written mostly by Claude 3.7 Sonnet, achieves 98.75% match with human labels. The mismatched cases are all ambiguous narrative reports, and can be found in [data/mismatches_table.tex](data/mismatches_table.tex).
 
