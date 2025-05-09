@@ -6,7 +6,7 @@ This is mainly used as a retort for the study ["Use of Generative AI to Identify
 
 ## Overview
 
-This project uses the DeepSeek-V3 model from Together AI to analyze emergency department narratives and classify helmet status:
+This project uses the DeepSeek-V3 served by Together AI to analyze emergency department narratives and classify helmet status:
 - 1: Helmet worn
 - 0: No helmet worn 
 - 2: Cannot be determined from narrative
