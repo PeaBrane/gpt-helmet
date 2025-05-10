@@ -2,7 +2,10 @@
 
 A simple API demo using Together AI's DeepSeek-V3 model to classify helmet status from emergency department narratives. This proof-of-concept implementation, written mostly by Claude 3.7 Sonnet, achieves 98.75% match with human labels. The mismatched cases are all ambiguous narrative reports, and can be found in [data/mismatches_table.tex](data/mismatches_table.tex).
 
-This is mainly used as a retort for the study ["Use of Generative AI to Identify Helmet Status Among Patients With Micromobility-Related Injuries From Unstructured Clinical Notes"](https://pubmed.ncbi.nlm.nih.gov/39136946/).
+This is mainly used as a retort for the study ["Use of Generative AI to Identify Helmet Status Among Patients With Micromobility-Related Injuries From Unstructured Clinical Notes"](https://pubmed.ncbi.nlm.nih.gov/39136946/). 
+
+Our retort is also available here:
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5247962
 
 ## Overview
 
